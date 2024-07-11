@@ -1,6 +1,8 @@
 # About this repository
 This repository contains code supporting the paper "Small Ramsey numbers for books, wheels, and generalizations" by Bernard Lidický, Gwen McKinley, and Florian Pfender. This code was used to find the lower bound constructions in the paper for *books* and *wheels*. For code related to the upper bounds, see [https://lidicky.name/pub/gr/](https://lidicky.name/pub/gr/).
 
+**Link to paper:** https://arxiv.org/abs/2407.07285
+
 Copyright (c) 2024 Gweneth McKinley. This code is released under a Creative Commons Attribution 4.0 license.
 
 ## Contents:
