@@ -1,5 +1,5 @@
 # About this repository
-This repository contains code supporting the paper "Small Ramsey numbers for books, wheels, and generalizations" by Bernard Lidický, Gwen McKinley, Florian Pfender, and Steven Van Overberghe. This code was used to find the lower bound constructions in the paper for *books* and *wheels*. For code related to the upper bounds, see [https://lidicky.name/pub/gr/](https://lidicky.name/pub/gr/).
+This repository contains code supporting the paper "Small Ramsey numbers for books, wheels, and generalizations" by Bernard Lidický, Gwen McKinley, Florian Pfender, and Steven Van Overberghe. This code was used to find lower bound constructions in the paper for *books* and *wheels*, as well as some upper bounds via "bottom-up generation". For code related to the upper bounds found with flag algebras, see [https://lidicky.name/pub/gr/](https://lidicky.name/pub/gr/).
 
 **Link to paper:** https://arxiv.org/abs/2407.07285
 
